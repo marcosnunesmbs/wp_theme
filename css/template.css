@@ -1,0 +1,42 @@
+.top-bar{
+    background: #Acb2e7;
+    height: 30px;
+}
+.top-bar-home{
+    background: #F0CA63;
+    height: 30px;
+}
+.main-menu ul li, .footer-menu ul li{ 
+    display: inline;
+}
+.main-menu ul li a, .footer-menu ul li a{ 
+    display: inline;
+    text-decoration: none;
+    color: #555;
+}
+.menu-area {
+    background: #626fe7;
+}
+.menu-area-home {
+    background: #AD7A00;
+}
+.social-media-icons {
+    color: #030E78;
+}
+
+.middle-area h2 {
+    color: #AD7A00;
+}
+.copyright {
+    color: #F0CA63;
+}
+.wp-post-image{
+    float: letf;
+    margin: 0 15px 10px 0;
+}
+.blog article{
+    display: inline-block;
+}
+body {
+    color: #555 !important;
+}
